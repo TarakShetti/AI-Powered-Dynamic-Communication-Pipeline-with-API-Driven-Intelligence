@@ -1,1 +1,14 @@
-
+{
+  "mcpServers": {
+    "Gmail": {
+      "url": "https://mcp.pipedream.net/your-gmail-endpoint"
+    },
+    "Railway": {
+      "url": "https://railway-mcp.amithv.xyz/mcp"
+    },
+    "ElevenLabs": {
+      "command": "python",
+      "args": ["-m", "elevenlabs_mcp.server"]
+    }
+  }
+}
