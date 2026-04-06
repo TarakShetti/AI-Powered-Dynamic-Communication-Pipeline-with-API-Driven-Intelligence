@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![Status](https://img.shields.io/badge/Project-Inactive-brightgreen)
 ![AI](https://img.shields.io/badge/AI-MultiAgent-orange)
 
 # 🚀 AI Multi-Agent Automation System (MCP-Based)
