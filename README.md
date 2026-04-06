@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Status](https://img.shields.io/badge/Project-Active-brightgreen)
+![AI](https://img.shields.io/badge/AI-MultiAgent-orange)
+
 # 🚀 AI Multi-Agent Automation System (MCP-Based)
 
 ## 📌 Overview
@@ -14,6 +18,8 @@ Instead of building isolated automations, this system acts as a **central AI orc
 ---
 
 ## ⚙️ System Architecture
+
+![Architecture](architecture/system_design.png)
 
 User Prompt (Natural Language)
         ↓
