@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=AI%20Nexus%20Pipeline&fontSize=70&fontAlignY=35&desc=Dynamic%20Communication%20%26%20Multi-Agent%20Orchestration&descAlignY=55&descAlign=50" alt="Header Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=AI%20Nexus%20Pipeline&fontSize=70&fontAlignY=35&desc=Dynamic%20Communication%20and%20Multi-Agent%20Orchestration&descAlignY=55&descAlign=50" alt="Header Banner">
 
 <h1>🤖 AI Multi-Agent Automation System</h1>
 
