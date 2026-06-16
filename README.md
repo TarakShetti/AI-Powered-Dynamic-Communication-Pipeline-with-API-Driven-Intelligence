@@ -121,3 +121,7 @@ graph TD
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" alt="Footer Banner">
 </div>
+
+---
+
+> **Developer Note:** While this repository highlights advanced orchestration concepts, its technical core is fundamentally an **MCP (Model Context Protocol) Server Configuration profile**. It relies on plugging the provided JSON configuration into an external AI IDE (like Cursor) which acts as the "Brain" to execute the defined workflows.
