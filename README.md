@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=AI%20Nexus%20Pipeline&fontSize=70&fontAlignY=35&desc=Dynamic%20Communication%20and%20Multi-Agent%20Orchestration&descAlignY=55&descAlign=50" alt="Header Banner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=AI%20Communication%20Pipeline&fontSize=50&fontAlignY=38&desc=With%20API-Driven%20Intelligence&descAlignY=60&descAlign=50" alt="Header Banner">
 
-<h1>🤖 AI Multi-Agent Automation System</h1>
+<h1>🤖 AI-Powered Dynamic Communication Pipeline</h1>
 
 <p>
   <b>An enterprise-grade orchestration layer leveraging Model Context Protocol (MCP) to unify autonomous agents.</b>
